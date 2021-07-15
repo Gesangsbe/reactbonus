@@ -7,10 +7,10 @@ function App() {
       <header className="App-header">
         <img src={rhcp} className="App-logo" alt="rhcp" />
         <p>
-          <h1>Gesang <code>Sabae</code></h1>
+          <h1>GESANG SABAE</h1>
         </p>
         <p>
-          Kelompok Alphabet
+          <h3>Kelompok Alphabet</h3>
         </p>
         <a
           className="App-link"
