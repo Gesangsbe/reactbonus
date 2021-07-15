@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={rhcp} className="App-logo" alt="rhcp" />
         <p>
-          Gesang <code>Sabae</code>
+          <h1>Gesang <code>Sabae</code></h1>
         </p>
         <p>
           Kelompok Alphabet
